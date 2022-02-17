@@ -44,9 +44,9 @@ class ProductStructure
         
             $resultado[$cor][$tamanho] = $resultado[$cor][$tamanho];
         
-            echo '<pre>';
-            print_r($resultado);
-            echo '</pre>';
+            //echo '<pre>';
+            //print_r($resultado);
+            //echo '</pre>';
         }
         
         return $resultado;
